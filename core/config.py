@@ -1,7 +1,7 @@
 import configparser
 from pathlib import Path
 
-# Carga y valida el archivo service.cfg
+# Carga y valida el archivo settings.cfg
 def load_config(path):
     cfg_path = Path(path)
 
@@ -14,10 +14,10 @@ def load_config(path):
     if "service" not in parser:
         raise RuntimeError("Missing [service] section")
 
-    if "commands" not in parser:
-        raise RuntimeError("Missing [commands] section")
+    if "modules" not in parser:
+        raise RuntimeError("Missing [modules] section")
 
-    if not parser["commands"]:
-        raise RuntimeError("No commands defined")
+    if not parser["modules"]:
+        raise RuntimeError("No modules defined")
 
     return parser

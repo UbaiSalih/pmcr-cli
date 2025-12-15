@@ -4,7 +4,7 @@ from core.loader import load_callable
 
 # Ejecuta un comando definido en el cfg
 def run_command(config, name, args, ui):
-    commands = config["commands"]
+    commands = config["modules"]
 
     if name not in commands:
         raise RuntimeError(f"Command '{name}' not defined")
